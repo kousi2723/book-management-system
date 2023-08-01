@@ -1,2 +1,2 @@
-# book-management-system
-This is a book management system project created using c++
+# book shop -management-system
+This is a book shop management system project created using c++
